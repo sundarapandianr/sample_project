@@ -1,5 +1,10 @@
                    My details
 
+<<<<<<< HEAD
 
 
 sundarapandian
+=======
+sundarapandian
+software developer
+>>>>>>> 6cc8d503d98d6fabcdcb5a59cd490cdf1b259071
